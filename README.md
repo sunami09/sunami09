@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunami09" alt="sunami09" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/daasguptasunami" target="blank"><img src="https://img.shields.io/twitter/follow/daasguptasunami?logo=twitter&style=for-the-badge" alt="daasguptasunami" /></a> </p>
+
 
 - 🔭 I’m currently working on **Sign-Language Recognition in real-time.**
 
