@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **IDK, everything I guess.....**
 
-- 👨‍💻 All of my projects are available at: [sunamidasgupta.com](sunamidasgupta.com)
+- 👨‍💻 All of my projects are available at: [sunamidasgupta.com](www.sunamidasgupta.com)
 
 - 📝 I regularly write articles on: [https://www.multiprocessingmuggles.com/blog](https://www.multiprocessingmuggles.com/blog)
 
