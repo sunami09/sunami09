@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunami09&label=Profile%20views&color=0e75b6&style=flat" alt="sunami09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunami09" alt="sunami09" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=sunami09" alt="sunami09" /></a> </p>
 
 
 
