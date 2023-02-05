@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunami Dasgupta</h1>
 <h3 align="center">I build things for the web.</h3>
 <div align ="center">
-  <img src ="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+  <img src ="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" height ="450">
 
 </div>
 
