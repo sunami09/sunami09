@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunami09" alt="sunami09" /></a> </p>
 
-- 🔭 I’m currently working on [Real-time chatting application](https://github.com/sunami09/MuggleSpace)
+<!-- - 🔭 I’m currently working on [Real-time chatting application](https://github.com/sunami09/MuggleSpace) -->
+- ⚡ Fun fact **I can bench ~~135 lbs~~ 155 lbs.**
 
 - 🌱 I’m currently learning **React, Node, ExpressJS, MongoDB, jQuery, Mongoose**
 
@@ -23,7 +24,7 @@
 
 - 📄 Know about my experiences [My Resume](https://sunamidasgupta.netlify.app/resume.pdf)
 
-- ⚡ Fun fact **I can bench 135 lbs.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
