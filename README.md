@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **sunamidasgupta@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://sunamidasgupta.netlify.app/resume.pdf)
+- 📄 Know about my experiences [My Resume](URL GOOOS)
 
 
 
