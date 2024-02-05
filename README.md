@@ -16,13 +16,13 @@
 
 - 🤝 I’m looking for help with [Video-Conference Web App](https://github.com/sunami09/The-Muggle-Room-Production)
 
-- 👨‍💻 All of my projects are available at [My Protfolio](URL GOES HEre)
+- 👨‍💻 All of my projects are available at [My Protfolio](https://sunamidasgupta.netlify.app/)
 
 - 💬 Ask me about **React Apps**
 
 - 📫 How to reach me **sunamidasgupta@gmail.com**
 
-- 📄 Know about my experiences [My Resume](URL GOOOS)
+- 📄 Know about my experiences [My Resume](https://sunamidasgupta.netlify.app/resume.pdf)
 
 
 
